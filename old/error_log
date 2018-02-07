@@ -1,0 +1,5 @@
+[30-May-2017 18:26:42 UTC] PHP Fatal error:  Call to undefined method Categories_Model::view_all() in /home/tyrepoint/public_html/visionplusdev.com/latinequips/application/controllers/admin/categories.php on line 21
+[30-May-2017 18:26:48 UTC] PHP Fatal error:  Call to undefined method Categories_Model::view_all() in /home/tyrepoint/public_html/visionplusdev.com/latinequips/application/controllers/admin/categories.php on line 16
+[30-May-2017 18:26:52 UTC] PHP Fatal error:  Call to undefined method Categories_Model::view_all() in /home/tyrepoint/public_html/visionplusdev.com/latinequips/application/controllers/admin/categories.php on line 21
+[30-May-2017 18:27:05 UTC] PHP Fatal error:  Call to undefined method Categories_Model::view_all() in /home/tyrepoint/public_html/visionplusdev.com/latinequips/application/controllers/admin/categories.php on line 16
+[30-May-2017 18:33:35 UTC] PHP Fatal error:  Call to undefined method Categories_Model::view_all() in /home/tyrepoint/public_html/visionplusdev.com/latinequips/application/controllers/admin/categories.php on line 16
